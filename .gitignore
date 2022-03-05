@@ -1,0 +1,4 @@
+#忽略mimarket.css文件
+mimarket.css
+#忽略test目录下所有文件
+test/
